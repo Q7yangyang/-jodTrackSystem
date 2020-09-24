@@ -38,7 +38,7 @@
             {
               "title": "添加班级",
               "href": "page/class/addClass.html",
-              "icon": "fa fa-plus-square",
+              "icon": "fa fa-plus-square-o",
               "target": "_self"
             },
             {
@@ -78,7 +78,7 @@
             {
               "title": "合作企业添加",
               "href": "page/company/addCompany.html",
-              "icon": "fa fa-plus-square",
+              "icon": "fa fa-plus-square-o",
               "target": "_self"
             },
             {
@@ -90,7 +90,7 @@
             {
               "title": "专场招聘会维护",
               "href": "page/company/maintenanceJob.html",
-              "icon": "fa fa-search",
+              "icon": "fa fa-gear",
               "target": "_self"
         }
       ]
